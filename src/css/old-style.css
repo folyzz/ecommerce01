@@ -6,8 +6,8 @@
     font-weight: 400;
     font-style: normal;
 }
-
 body 
+
 {
     font-family: "JF Flat Regular", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 14px;
@@ -80,6 +80,7 @@ body
 }
 /* نهاية الملصق */
 
+
 .custom-navbar .custom-form-control:focus
 {
     border-color: #C2101E;
@@ -92,6 +93,7 @@ body
     border-right: 0;
     border-radius: 0;
 }
+
 
 .custom-dropdown-menu
 {
@@ -251,6 +253,7 @@ body
     border: 2px solid #DDDDDB;
     background-color: #fff;
     margin-right: 3px;
+    cursor: pointer;
 }
 
 .custom-carousel-indicators-primary img.active 
@@ -333,6 +336,7 @@ h3.custom-heading
 
 .custom-thumbnail h4
 {
+    color: #5c5c5c;
     font-size: 18px;
     padding-top: 10px;
 }
